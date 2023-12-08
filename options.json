@@ -2,34 +2,34 @@
 	"actions": {
 		"Views": {
 			"actionbutton": "viewsButton",
-			"loops": 0
+			"loops": 3
 		},
 		"Hearts": {
 			"actionbutton": "heartsButton",
-			"loops": 0
+			"loops": 3
 		},
 		"Comment Hearts": {
 			"actionbutton": "commentsHeartsButton",
-			"loops": 0
+			"loops": 3
 		},
 		"Followers": {
 			"actionbutton": "followersButton",
-			"loops": 0
+			"loops": 1000
 		},
 		"Shares": {
 			"actionbutton": "sharesButton",
-			"loops": 0
+			"loops": 3
 		},
 		"Live Stream": {
 			"actionbutton": "livestreamButton",
-			"loops": 0
+			"loops": 1
 		}
 	},
 	"vidURLs": [
-		"https://www.tiktok.com/@/video/",
-		"https://www.tiktok.com/@/video/"
+		"https://vt.tiktok.com/ZSNX7a19V/",
+		"https:/https://www.tiktok.com/@toji4861/video/7306026093453004037?_r=1&u_code=eb8jjle4lbbi2j&region=PH&mid=7306026101196802822&preview_pb=0&sharer_language=en&_d=dm7c18kj86261d&share_item_id=7306026093453004037&source=h5_t&timestamp=1702011463&user_id=7306015432468481030&sec_user_id=MS4wLjABAAAAVviNcSzLLm4tTyIXowoA-iNv6b9GDAtRfFi75QHg-goxOjl4dvDy_cO_OGdi8jV5&social_share_type=0&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_iid=7310075714535311109&share_link_id=662ced42-06d1-4594-bd5c-69055dd0b158&share_app_id=1180&ugbiz_name=MAIN&ug_btm=b8727%2Cb2878"
 	],
 	"serviceURL": "https://vipto.de/",
 	"chromePath": "D:\\PATH\\chromedriver.exe",
-	"loops": 0
+	"loops": 1000
 }
